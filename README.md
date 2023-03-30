@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 <div align="center" id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/anna-abrajeeva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="mailto: anuta040786@yandex.ru">
