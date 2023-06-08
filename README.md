@@ -45,6 +45,7 @@
 ### Projects on Vanilla Ts/Js:
 * Virtual-keyboard - https://github.com/AnnAbrajeeva/VirtualKeyboard 
 * Shelter - https://github.com/AnnAbrajeeva/Shelter
+* SityPro - https://github.com/AnnAbrajeeva/SityPro
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=annabrajeeva" />
