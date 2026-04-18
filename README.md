@@ -2,17 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend Developer</h3>
 
-<div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/anna-abrajeeva/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="mailto: anuta040786@yandex.ru">
-    <img src="https://img.shields.io/badge/mail-red?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Badge"/>
-  </a>
-  <a href="https://t.me/abrAnuta">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
+
 
 ---
 
@@ -38,14 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabrajeeva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### Projects on ReactJs and Redux:
-* Project Managment App - https://github.com/AnnAbrajeeva/project-management-app 
-* Rs-lang - https://github.com/AnnAbrajeeva/rslang
 
-### Projects on Vanilla Ts/Js:
-* Virtual-keyboard - https://github.com/AnnAbrajeeva/VirtualKeyboard 
-* Shelter - https://github.com/AnnAbrajeeva/Shelter
-* SityPro - https://github.com/AnnAbrajeeva/SityPro
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=annabrajeeva" />
